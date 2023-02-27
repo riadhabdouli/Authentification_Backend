@@ -1,0 +1,17 @@
+C:\Users\MSI\Desktop\pfe\authentification\OnionArchitecture\api\SignalR\bin\Debug\net6.0\SignalR.deps.json
+C:\Users\MSI\Desktop\pfe\authentification\OnionArchitecture\api\SignalR\bin\Debug\net6.0\SignalR.dll
+C:\Users\MSI\Desktop\pfe\authentification\OnionArchitecture\api\SignalR\bin\Debug\net6.0\SignalR.pdb
+C:\Users\MSI\Desktop\pfe\authentification\OnionArchitecture\api\SignalR\bin\Debug\net6.0\Application.dll
+C:\Users\MSI\Desktop\pfe\authentification\OnionArchitecture\api\SignalR\bin\Debug\net6.0\Domain.dll
+C:\Users\MSI\Desktop\pfe\authentification\OnionArchitecture\api\SignalR\bin\Debug\net6.0\Application.pdb
+C:\Users\MSI\Desktop\pfe\authentification\OnionArchitecture\api\SignalR\bin\Debug\net6.0\Domain.pdb
+C:\Users\MSI\Desktop\pfe\authentification\OnionArchitecture\api\SignalR\obj\Debug\net6.0\SignalR.csproj.AssemblyReference.cache
+C:\Users\MSI\Desktop\pfe\authentification\OnionArchitecture\api\SignalR\obj\Debug\net6.0\SignalR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI\Desktop\pfe\authentification\OnionArchitecture\api\SignalR\obj\Debug\net6.0\SignalR.AssemblyInfoInputs.cache
+C:\Users\MSI\Desktop\pfe\authentification\OnionArchitecture\api\SignalR\obj\Debug\net6.0\SignalR.AssemblyInfo.cs
+C:\Users\MSI\Desktop\pfe\authentification\OnionArchitecture\api\SignalR\obj\Debug\net6.0\SignalR.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\pfe\authentification\OnionArchitecture\api\SignalR\obj\Debug\net6.0\SignalR.csproj.CopyComplete
+C:\Users\MSI\Desktop\pfe\authentification\OnionArchitecture\api\SignalR\obj\Debug\net6.0\SignalR.dll
+C:\Users\MSI\Desktop\pfe\authentification\OnionArchitecture\api\SignalR\obj\Debug\net6.0\refint\SignalR.dll
+C:\Users\MSI\Desktop\pfe\authentification\OnionArchitecture\api\SignalR\obj\Debug\net6.0\SignalR.pdb
+C:\Users\MSI\Desktop\pfe\authentification\OnionArchitecture\api\SignalR\obj\Debug\net6.0\ref\SignalR.dll
